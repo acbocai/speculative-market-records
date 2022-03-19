@@ -47,12 +47,6 @@
 去银行贷款利率是市场利率，银行间的拆借利率是市场利率,十年国债收益率也是市场利率。
 通常说的市场利率，指的是市场无风险利率，没有人可以钦定市场无风险利率，它取决于资产篮子和市场。
 
-参考:
-https://www.zhihu.com/question/67844574
-https://zhuanlan.zhihu.com/p/370122131
-https://www.zhihu.com/question/20276427
-https://www.bilibili.com/read/cv8468865
-
 
         票面利率(Coupon Rate)：
 由官方决定，比如一级市场拍卖时，设定票面利率为5%，
@@ -95,5 +89,14 @@ https://www.bilibili.com/read/cv8468865
 2000年发行面值100的国债，票面利率为3%，发行后在二级市场交易。（简称A）
 2001年发行面值100的国债，票面利率为5%，发行后在二级市场交易。（简称B）
 由于B的收益更高，人们会抛售A去买B，A的供给增多，导致A的二级市场价格跌，直到(A的二级市场价格+100*3%) == (100+100*5%)平衡为止
+
+
+参考:
+https://www.zhihu.com/question/67844574
+https://zhuanlan.zhihu.com/p/370122131
+https://www.zhihu.com/question/20276427
+https://www.bilibili.com/read/cv8468865
+https://www.sohu.com/a/405519880_120510187?_trans_=000014_bdss_dkbjyq
+
 ```
 <br>
