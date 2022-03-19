@@ -54,9 +54,10 @@ https://www.zhihu.com/question/67844574 <br>
 https://zhuanlan.zhihu.com/p/370122131 <br>
 https://www.bilibili.com/read/cv8468865 <br>
 
+
         票面利率(Coupon Rate)：
 由官方决定，比如一级市场拍卖时，设定票面利率为5%，
-则利息收入=面值100*票面利率5%
+则到期收益=面值100*票面利率5%
 
 
         国债发行价格
@@ -67,7 +68,7 @@ https://www.bilibili.com/read/cv8468865 <br>
 
 
         国债市场价格
-把国债拿到二级市场自由交易，通过供需产生的价格。
+把国债拿到二级市场自由交易，由市场供需产生的价格。
 
 
         国债收益率
