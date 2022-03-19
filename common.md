@@ -13,8 +13,9 @@
     美债间接影响了借贷市场利率,美债收益率成为全球资产定价之锚.
         |
     美国人如果能操控美债收益率，就能影响全球其他资产价格.
+    
+    // 来自MoneyXYZ https://www.youtube.com/watch?v=u_TtGdl2d9A
 ```
-<!-- 来自MoneyXYZ https://www.youtube.com/watch?v=u_TtGdl2d9A -->
 <br>
 
 #### [2022-3-19] [债券] 美国人如何操控美债收益率？
