@@ -26,7 +26,7 @@ https://cn.investing.com/economic-calendar/pboc-reserve-requirement-ratio-1084
 ![](data/common/2022-3-22-2.png)
 <br><br>
 
-## [2022-3-19] 为什么美债会影响全球资产价格？
+## [2022-3-19] 为什么美国国债会影响全球资产价格？
 - 借贷利率会互相参考，具有传导性、竞争性。
 ```java
     逻辑：
