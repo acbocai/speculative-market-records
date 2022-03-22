@@ -13,6 +13,10 @@
 当准备金比率下降到10%，银行可以向外放贷90万，
 简单来说，准备金比率会影响市场上钱的数量。
 它是一种央行常用的货币政策，投资者需要重点关注。
+
+数据查询：
+https://fred.stlouisfed.org/series/IORR
+https://cn.investing.com/economic-calendar/pboc-reserve-requirement-ratio-1084
 ```
 <br>
 
