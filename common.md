@@ -1,5 +1,5 @@
 # 投资常识
-#### [2022-3-22] 银行存款准备金比率(Interest Rate on Required Reserves)(IORR)
+## [2022-3-22] 银行存款准备金比率(Interest Rate on Required Reserves)(IORR)
 ```java
 举例:
 普通银行用3%的利率吸纳民间存款后，
