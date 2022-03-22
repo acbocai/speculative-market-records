@@ -1,7 +1,7 @@
 # (某码农的不科学)投机市场观察录
 #### [2022-3-22] [市场观察] 经济衰退的红灯，长短期美国国债收益率即将倒挂
 ![](./data/readme/2022-3-22-1.png)  
-[美债收益率倒挂的](https://github.com/acbocai/speculative-market-record/blob/main/common.md/common美债收益率倒挂)
+[美债收益率倒挂的含义](https://github.com/acbocai/speculative-market-record/blob/main/common.md/common/common20223191#common20223191)
 划重点,是有钱的投资者们认为经济要衰退，  
 超买十年期美债，导致的倒挂现象，  
 这是用真金白银投票了，不是键盘侠嘴炮。  
