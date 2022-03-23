@@ -1,4 +1,5 @@
 # 常识积累
+<!--哈哈我是注释，
 ## [2022-3-22] 银行存款准备金比率(Interest Rate on Required Reserves)(IORR)
 ```java
 举例:
@@ -25,6 +26,7 @@ https://cn.investing.com/economic-calendar/pboc-reserve-requirement-ratio-1084
 
 ![](data/common/2022-3-22-2.png)
 <br><br>
+不会在浏览器中显示。-->
 
 ## [2022-3-19] 为什么美国国债会影响全球资产价格？
 - 借贷利率会互相参考，具有传导性、竞争性。
