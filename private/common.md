@@ -152,19 +152,27 @@ https://fred.stlouisfed.org/series/RRPONTSYD
 <br>
 
 ## [2022-3-27] 初步认识美联储资产负债表
-#### 资产端
+- 资产端
 ![](/data/common/2022-3-27-1.png)
 <br>
 
-#### 负债端
+- 负债端
 ![](/data/common/2022-3-27-2.png)
 <br>
 
-#### 趋势
+- 数据查询
 ![](/data/common/2022-3-27-3.png)
+```java
+官网每周星期四更新
+https://www.federalreserve.gov/releases/h41/
+
+趋势图表
+https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm
+https://fred.stlouisfed.org/series/WALCL
+```
 <br>
 
-#### 文章
+- 参考
 ```java
 【智堡Wisburg】如何监测美联储资产负债表（资产端）
 https://zhuanlan.zhihu.com/p/20868151
@@ -175,17 +183,6 @@ https://wisburg.com/articles/734065
 【招银研究｜宏观专题】美联储资产负债表：结构与变迁——美联储专题研究之一
 https://new.qq.com/rain/a/20211104A0CHL300
 https://cj.sina.com.cn/articles/view/5115326071/130e5ae7702001ib14
-```
-<br>
-
-#### 数据查询
-```java
-官网每周星期四更新
-https://www.federalreserve.gov/releases/h41/
-
-趋势图表
-https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm
-https://fred.stlouisfed.org/series/WALCL
 ```
 <br><br>
 
