@@ -1,6 +1,45 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
-## [2022-3-22] 存款准备金率 
+
+## [2022-3-27] 初步认识美联储资产负债表
+#### 资产端
+![](/data/common/2022-3-27-1.png)
+<br>
+
+#### 负债端
+![](/data/common/2022-3-27-2.png)
+<br>
+
+#### 趋势
+![](/data/common/2022-3-27-3.png)
+<br>
+
+#### 文章
+```java
+【智堡Wisburg】如何监测美联储资产负债表（资产端）
+https://zhuanlan.zhihu.com/p/20868151
+
+【智堡Wisburg】中央银行资产负债表与货币管理手册（第一部分）央行的资产负债表
+https://wisburg.com/articles/734065
+
+【招银研究｜宏观专题】美联储资产负债表：结构与变迁——美联储专题研究之一
+https://new.qq.com/rain/a/20211104A0CHL300
+https://cj.sina.com.cn/articles/view/5115326071/130e5ae7702001ib14
+```
+<br>
+
+#### 数据查询
+```java
+官网每周星期四更新
+https://www.federalreserve.gov/releases/h41/
+
+趋势图表
+https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm
+https://fred.stlouisfed.org/series/WALCL
+```
+<br><br>
+
+## [2022-3-22] 存款准备金率(美联储)
 - 存款准备金率(Reserve Requirement Ratio)<br>
 举例:普通银行用3%的利率吸纳民间存款后，
 会找渠道以10%的利率放出去赚钱.<br>
@@ -35,7 +74,7 @@
 由此，其他借贷利率全部都要参考IORB，IORB数值成了一个基准数值，在借贷市场传导开来。<br>
 中央银行通过调整IORB，就可以响着其他金融资产价格和经济状况。<br>
 (经常可以看到新闻说,降准blabla,调整IORB blabla,就是这个原因)<br>
-![](data/common/2022-3-22-1.png)
+![](/data/common/2022-3-22-1.png)
 <br>
 
 - 简单粗暴的工具逻辑:<br>
