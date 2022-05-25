@@ -36,7 +36,7 @@
 ```
 ![](/data/common/2022-5-25-1.png)<br>
 
-走势：
+走势：<br>
 [United States 10-Year TIPS](https://cn.investing.com/rates-bonds/united-states-10-year-tips-streaming-chart)<br>
 [iShares TIPS Bond ETF (TIP)](https://cn.investing.com/etfs/ishares-barclays-tip-chart)<br>
 [Schwab U.S. TIPS ETF™ (SCHP)](https://cn.investing.com/etfs/schwab-us-tips-chart)<br>
