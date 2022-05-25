@@ -20,18 +20,18 @@ S2F是冰糖橙比较常见估值模型，<br>
 它指出了冰糖橙的长期价格走向，<br>
 S2F的显著特点是,<br>
 显示每次减半节点过后,<br>
-冰糖橙价格会攀升的区间位置,<br>
+冰糖橙价格会攀升的水平位置,<br>
 下一次减半时间为2024.4.13,<br>
 对长期交易者来说建仓截至到此,<br>
 对短期交易者来说在这以后减少做空。<br>
 ![](./data/readme/2022-5-25-4.png)
 
 参考：<br>
-[彩虹图](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)
-[ARH999](https://www.fxhapp.com/data/ahrdata.html)
-[实际利率](https://fred.stlouisfed.org/series/DFII10)
-[S2F](https://stats.buybitcoinworldwide.com/stock-to-flow/)
-
+[彩虹图](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)<br>
+[ARH999](https://www.fxhapp.com/data/ahrdata.html)<br>
+[实际利率](https://fred.stlouisfed.org/series/DFII10)<br>
+[S2F](https://stats.buybitcoinworldwide.com/stock-to-flow/)<br>
+<br>
 
 ## [2022-5-23] [市场观察] <<经济回报、利率、汇率、资产和负债 价值和估值>>
 ###### 原文：<br>
