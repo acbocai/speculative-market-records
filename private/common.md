@@ -1,5 +1,49 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
+## [2022-5-25] 盈亏平衡通胀率 BEIR (Break-even Inflation Rates)
+计算方式：<br>
+盈亏平衡通胀率(通胀预期指标) = 美债收益率(名义利率) - 抗通膨债券收益率(实际利率)
+<br><br>
+
+作用：<br>
+一种常见的通胀预期指标，<br>
+该指标在预判美国CPI拐点时均有较好的领先作用，<br>
+该指标的缺点在于各期限盈亏平衡通胀率对通胀绝对值预测的准确性偏低。<br>
+<br><br>
+
+走势：<br>
+[Fred 10-Year Breakeven Inflation Rat](https://fred.stlouisfed.org/series/T10YIE)
+<br><br>
+
+参考：<br>
+[如何正确地理解盈亏平衡通胀率](https://finance.sina.com.cn/stock/stockzmt/2020-09-21/doc-iivhvpwy7892288.shtml)<br>
+[TIPS隐含美国通胀到了多少？](https://finance.sina.com.cn/stock/stockzmt/2021-01-24/doc-ikftssap0378367.shtml)<br>
+[美国实际利率简析,TIPS利率并非最好的实际利率指标](https://finance.sina.com.cn/stock/stockzmt/2021-02-04/doc-ikftssap3303078.shtml)
+<br><br>
+
+
+## [2022-5-24] 通胀保值债券 TIPS (TreasuryInflationProtectedSecurities)
+```java
+抗通膨债到底根据什么在抗通膨？– 美国消费者物价指数(CPI)
+
+抗通膨债券(TIPS)的本金*与美国消费者物价指数(CPI)连动，
+如果通膨增温时，TIPS的本金也会随之增加；
+反之，通货紧缩时，TIPS的本金也会减少，
+利息部分则是不会变，藉由本金的变动，来影响投资人最终的报酬率。
+
+但是美国政府保证到期时本金与票面面额取其高，也就是说TIPS到期时，
+投资人得到的金额一定会大于或等于最初发行时的金额。
+```
+![](/data/common/2022-5-25-1.png)<br>
+
+走势：
+[United States 10-Year TIPS](https://cn.investing.com/rates-bonds/united-states-10-year-tips-streaming-chart)<br>
+[iShares TIPS Bond ETF (TIP)](https://cn.investing.com/etfs/ishares-barclays-tip-chart)<br>
+[Schwab U.S. TIPS ETF™ (SCHP)](https://cn.investing.com/etfs/schwab-us-tips-chart)<br>
+
+参考：<br>
+[抗通膨債券(TIPS)是什麼？抗通膨債券ETF、基金怎麼買？TIPS與美國公債比較？](https://rich01.com/what-is-tips-etf/)
+<br><br>
 
 ## [2022-3-27] 贴现窗口(Discount Window)
 - 基本玩法：
@@ -15,7 +59,7 @@
 2008年4月30日进一步降低利率，仅为2.25%。
 在2008年3月16日，贴息贷款时限延长至90天。
 
-2020.3.15，美联储将贴现窗口延长至90天，并将一级信贷利率（primary credit rate ）下调150bp至0.25%。
+2020.3.15，美联储将贴现窗口延长至90天，并将一级信贷利率（primary credit rate）下调150bp至0.25%。
 通过贴现窗口向银行提供流动性，美联储试图确保银行在市场压力时期，不必撤回对客户的信贷。
 这样，美联储就可以支持信贷平稳流向家庭和企业。
 ```
