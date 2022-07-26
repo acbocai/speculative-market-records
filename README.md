@@ -104,6 +104,10 @@ S2F的显著特点是,<br>
 对短期交易者来说在这以后减少做空。<br>
 ![](./data/readme/2022-5-25-4.png)
 
+#### 指标5:  days from ath
+叠加几轮周期高点后的价格表现,来观测市场目前大致处于哪个阶段<br>
+![](./data/readme/2022-5-25-5.jpg)
+
 参考：<br>
 [彩虹图](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)<br>
 [ARH999](https://www.fxhapp.com/data/ahrdata.html)<br>
