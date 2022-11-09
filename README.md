@@ -23,7 +23,7 @@
 <br>
 
 ###### ( 3 ) 交易所流动性危机
-FTX大战Binance,深度熊市的固定戏码
+FTX大战Binance, 交易所原地爆炸是每一轮熊市如约而至的固定戏码.
 ![](/data/readme/2022-11-9-5.png)
 <br>
 ![](/data/readme/2022-11-9-6.png)
