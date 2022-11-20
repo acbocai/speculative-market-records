@@ -16,6 +16,15 @@
 (a)美债 -> (b)美股 -> (c)汇市 -> (d)就业 -> (e)房地产 -> (f)对抗 <br>
 说明:当前位置在(d), 不看到就业和地产降温, 不考虑拐点的事情. <br>
 ![](/data/readme/2022-11-20-1.png)
+<br>
+
+#### (5)参考
+房地产 s&p corelogic case-shiller 20-city composite home price nsa index <br>
+https://fred.stlouisfed.org/series/SPCS20RSA
+失业率 <br>
+https://fred.stlouisfed.org/series/UNRATE
+薪资成长率 <br>
+https://tradingeconomics.com/united-states/average-hourly-earnings-yoy
 <br><br>
 
 ## [2022-11-9] [市场观察] 复盘今年出现的两次盈亏比极佳的投机机会
