@@ -20,11 +20,11 @@
 
 #### (5)参考
 房地产 s&p corelogic case-shiller 20-city composite home price nsa index <br>
-https://fred.stlouisfed.org/series/SPCS20RSA
+https://fred.stlouisfed.org/series/SPCS20RSA <br>
 失业率 <br>
-https://fred.stlouisfed.org/series/UNRATE
+https://fred.stlouisfed.org/series/UNRATE <br>
 薪资成长率 <br>
-https://tradingeconomics.com/united-states/average-hourly-earnings-yoy
+https://tradingeconomics.com/united-states/average-hourly-earnings-yoy <br>
 <br><br>
 
 ## [2022-11-9] [市场观察] 复盘今年出现的两次盈亏比极佳的投机机会
