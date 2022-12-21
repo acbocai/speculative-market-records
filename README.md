@@ -31,9 +31,8 @@
 https://www.bilibili.com/video/BV1U84y1x7Kx <br>
 计算机仿真模拟英国“群体免疫”到底靠不靠谱？【大谷纽约实验室】 <br>
 https://www.youtube.com/watch?v=5EjZOTdrQow&ab_channel=DGSpitzer <br>
-<br><br>
 
-( 2 ) 实际情况
+( 2 ) 实际情况<br>
 上面是最理想最简单的情况, 而实际场景还要考虑病毒变异, 免疫buff消失的情况, <br>
 而且受限于经济条件/人口密度/社会责任, 想苟过高峰困难重重, <br>
 我们可能需要从长计议, 考虑远离人口密集的城市, 选择只接触固定熟人的工作岗位. <br>
