@@ -24,8 +24,17 @@
 此时你再感染COVID-19是一个小概率事件.<br>
 总的来说, 剩者为王, 全都阳了, 就你没阳!<br>
 (听说英国人就是用这种办法保护老年人? 取名叫群体免疫?)<br>
+(实际场景还要考虑病毒变异,免疫buff消失的情况.)<br>
 ![](/data/readme/2022-12-21-2.png)<br>
+<br>
+参考:<br>
+10000个样本，模拟新冠如何达峰。解释病毒的群体免疫是什么？<br>
+https://www.bilibili.com/video/BV1U84y1x7Kx <br>
+<br>
+计算机仿真模拟英国“群体免疫”到底靠不靠谱？【大谷纽约实验室】 <br>
+https://www.youtube.com/watch?v=5EjZOTdrQow&ab_channel=DGSpitzer <br>
 <br><br>
+
 
 #### 减少感染COVID-19频次的意义是什么?
 ( 1 ) 根据"老高與小茉 Mr & Mrs Gao"的说法,<br>
