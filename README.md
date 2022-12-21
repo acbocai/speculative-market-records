@@ -29,7 +29,6 @@
 参考:<br>
 10000个样本，模拟新冠如何达峰。解释病毒的群体免疫是什么？<br>
 https://www.bilibili.com/video/BV1U84y1x7Kx <br>
-<br>
 计算机仿真模拟英国“群体免疫”到底靠不靠谱？【大谷纽约实验室】 <br>
 https://www.youtube.com/watch?v=5EjZOTdrQow&ab_channel=DGSpitzer <br>
 <br><br>
