@@ -1,6 +1,16 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
 
+## [2023-5-4] 对比股指波动率与债券波动率
+一般而言VIX和MOVE是同步的,<br>
+如果走势发生背离,说明股市和债市存在分歧,但是最终会完成价格修正.<br>
+- VIX <br>
+https://www.tradingview.com/symbols/TVC-VIX/ <br>
+
+- MOVE <br>
+https://www.tradingview.com/symbols/TVC-MOVE/ <br>
+<br><br>
+
 ## [2023-5-4] 全球流动性观测指标
 全球流动性 - SPX指数 <br>
 Global Net Liquidity - SPX Fair Value <br>
