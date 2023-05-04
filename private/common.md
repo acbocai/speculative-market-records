@@ -36,7 +36,7 @@ M平方: <br>
 https://sc.macromicro.me/collections/4/us-employ-relative/6/employment-condition <br>
 <br><br>
 
-## [2023-5-4] 职位空缺 (job openings)
+## [2023-5-4] 职位空缺 (JOLTS job openings)
 ### 职位空缺与经济 通胀
 空缺率通常被认为是一个衡量经济活力的指标。<br>
 当空缺率较高时，这意味着企业在寻找合适的人才和填补职位方面遇到了困难，反映了劳动力市场供需失衡，可能会导致工资上涨、通胀压力增加等现象。<br>
