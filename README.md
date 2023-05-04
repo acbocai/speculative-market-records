@@ -112,26 +112,29 @@ https://ig.ft.com/coronavirus-chart
 "衰退"这个词有点抽象, <br>
 从我们普通人能体会的角度, <br>
 简单粗暴的讲: <br>
-大衰退 == 失业率飙升 + 房地产崩盘 <br><br>
+大衰退 == 失业率飙升 + 房地产崩盘 <br>
+软着陆 == 失业率平稳 + 房地产见底 <br><br>
 
 #### (5)所以问题关键在什么?
-大衰退是复苏的必经之路吗? <br>
-大衰退的概率有多大? <br><br>
+衰退是复苏的必经之路吗? <br>
+衰退的概率有多大? <br><br>
 
 #### (6)过程
 (a)美债 -> (b)美股 -> (c)汇市 -> (d)就业 -> (e)房地产 -> (f)... <br>
 说明: <br>
 用简单粗暴的方式来确认当前市场所处的位置, <br>
 如果衰退是必经之路, 那我们当前顺位大致在(d), <br>
-即不看到美国就业和地产降温, 不考虑拐点的事情. <br>
+如果不看到美国就业和地产降温, 不考虑拐点的事情. <br>
 ![](/data/readme/2022-11-20-1.png)
 <br>
 
 #### (5)参考
 房地产 s&p corelogic case-shiller 20-city composite home price nsa index <br>
-https://fred.stlouisfed.org/series/SPCS20RSA <br>
+https://fred.stlouisfed.org/series/SPCS20RSA <br><br>
+
 失业率 <br>
-https://fred.stlouisfed.org/series/UNRATE <br>
+https://fred.stlouisfed.org/series/UNRATE <br><br>
+
 薪资成长率 <br>
 https://tradingeconomics.com/united-states/average-hourly-earnings-yoy <br>
 <br><br>
