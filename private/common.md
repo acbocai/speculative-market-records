@@ -5,7 +5,7 @@
 指建商开工建房子前要先取得的许可执照，与新屋开工同步公布。<br>
 有许可未来才会建造更多房子，<br>
 因此是领先新屋开工的指标，<br>
-也被美国商务部列为「领先指标」的组成项目之一。<br><br>
+也被美国商务部列为「领先指标」的组成项目之一。<br>
 
 建筑业制造业的失业率对衰退非常敏感,<br>
 而建筑业中新屋营建许可数作为领先指标, 
@@ -13,7 +13,7 @@
 
 ### 代码
 USBP (United States Building Permits) <br>
-https://www.tradingview.com/symbols/ECONOMICS-USBP/ <br><br>
+https://www.tradingview.com/symbols/ECONOMICS-USBP/ <br>
 
 新屋营建许可 <br>
 https://sc.macromicro.me/charts/30/housing-start <br>
@@ -21,6 +21,10 @@ https://sc.macromicro.me/charts/30/housing-start <br>
 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (PERMIT) <br>
 https://fred.stlouisfed.org/series/PERMIT <br><br>
 
+![](/data/common/2023-05-04-2.png) <br><br>
+
+### 参考
+https://www.youtube.com/watch?v=1DTEDN9VONA <br><br>
  
 
 ## [2023-5-4] 对比股指波动率与债券波动率
