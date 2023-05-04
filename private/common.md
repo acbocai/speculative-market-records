@@ -1,8 +1,9 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
 
-## 流动性观测指标
-全球流动性与SPX指数 Global Net Liquidity - SPX Fair Value <br>
+## [2023-5-4] 全球流动性观测指标
+全球流动性 - SPX指数 <br>
+Global Net Liquidity - SPX Fair Value <br>
 ![](/data/common/2023-05-04-1.png) <br><br>
 
 ### 代码
