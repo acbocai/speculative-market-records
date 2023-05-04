@@ -21,7 +21,11 @@
 70年代美联储货币政策的相对摇摆不定,<br>
 加息不彻底, 高利率维持时间不够长,<br>
 导致1970年代通胀反复.<br>
-https://zhuanlan.zhihu.com/p/602675882
+<br><br>
+
+#### 参考:
+https://www.youtube.com/watch?v=bkIwE8pe4sI <br>
+https://zhuanlan.zhihu.com/p/602675882 <br>
 <br><br>
 
 ## [2022-12-21] [市场观察] 一些关于COVID-19的一些想法
