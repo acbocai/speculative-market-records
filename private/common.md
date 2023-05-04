@@ -1,6 +1,16 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
 
+## 流动性观测指标
+全球流动性与SPX指数 Global Net Liquidity - SPX Fair Value <br>
+https://www.tradingview.com/script/hky2sJKD-Global-Net-Liquidity/ <br>
+https://www.tradingview.com/script/Wp8FgaHC-Global-Net-Liquidity-SPX-Fair-Value/ <br><br>
+
+参考: <br>
+https://www.youtube.com/watch?v=AoneJGrUP8Q <br><br>
+<br>
+
+
 ## [2023-5-4] 非农数据 NFP (US Non-farm Payrolls)
 #### 参考
 https://www.youtube.com/watch?v=_Ojs5pN9wOo
@@ -13,7 +23,8 @@ https://www.youtube.com/watch?v=_Ojs5pN9wOo
 代表过去一个月美国增加了多少就业人数 <br><br>
 
 - 失业率<br>
-失业率上升代表经济恶化, 失业率下降代表经济好转 <br><br>
+失业率上升代表经济恶化, 央行应该降息刺激经济.
+失业率低代表经济好, 可以支撑央行保持高利率. <br><br>
 
 - 劳动增长率/劳动参与率<br>
 代表有多少人在找工作/愿意找工作. <br><br>
