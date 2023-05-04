@@ -3,10 +3,14 @@
 
 ## 流动性观测指标
 全球流动性与SPX指数 Global Net Liquidity - SPX Fair Value <br>
-https://www.tradingview.com/script/hky2sJKD-Global-Net-Liquidity/ <br>
-https://www.tradingview.com/script/Wp8FgaHC-Global-Net-Liquidity-SPX-Fair-Value/ <br><br>
+![](/data/common/2023-05-04-1.png) <br><br>
 
-参考: <br>
+### 代码
+https://www.tradingview.com/script/hky2sJKD-Global-Net-Liquidity/ <br>
+https://www.tradingview.com/script/Wp8FgaHC-Global-Net-Liquidity-SPX-Fair-Value/ <br>
+https://www.youtube.com/watch?v=AoneJGrUP8Q  <br><br>
+
+#### 参考
 https://www.youtube.com/watch?v=AoneJGrUP8Q <br><br>
 <br>
 
