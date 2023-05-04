@@ -1,9 +1,32 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
 
+## [2023-5-4] 新屋营建许可数 (Building Permits)
+指建商开工建房子前要先取得的许可执照，与新屋开工同步公布。<br>
+有许可未来才会建造更多房子，<br>
+因此是领先新屋开工的指标，<br>
+也被美国商务部列为「领先指标」的组成项目之一。<br><br>
+
+建筑业制造业的失业率对衰退非常敏感,<br>
+而建筑业中新屋营建许可数作为领先指标, 
+可以用来判断衰退.<br><br>
+
+### 代码
+USBP (United States Building Permits) <br>
+https://www.tradingview.com/symbols/ECONOMICS-USBP/ <br><br>
+
+新屋营建许可 <br>
+https://sc.macromicro.me/charts/30/housing-start <br>
+
+New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (PERMIT) <br>
+https://fred.stlouisfed.org/series/PERMIT <br><br>
+
+ 
+
 ## [2023-5-4] 对比股指波动率与债券波动率
 一般而言VIX和MOVE是同步的,<br>
-如果走势发生背离,说明股市和债市存在分歧,但是最终会完成价格修正.<br>
+如果走势发生背离,说明股市和债市存在分歧,<br>
+但是最终会一致, 完成价格修正.<br>
 - VIX <br>
 https://www.tradingview.com/symbols/TVC-VIX/ <br>
 
