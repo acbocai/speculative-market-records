@@ -1,6 +1,6 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
-## [2023-5-4] 就业成本指数 ECI
+## [2023-5-4] 就业成本指数 ECI (employment cost index)
 ### 代码
 USEMCI (环比)<br>
 https://www.tradingview.com/symbols/ECONOMICS-USEMCI/ <br>
