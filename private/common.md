@@ -37,6 +37,11 @@ https://sc.macromicro.me/collections/4/us-employ-relative/6/employment-condition
 <br><br>
 
 ## [2023-5-4] 职位空缺 (JOLTS job openings)
+指的是私营企业和政府职位空缺的总数, 来自JOLTS报告.<br>
+JOLTS（Job Openings and Labor Turnover Survey）是美国劳工部发布的一项报告，<br>
+其目的是提供有关职位空缺、招聘和员工流动情况的信息。<br>
+JOLTS报告通常被认为是衡量美国劳动力市场健康状况的重要指标之一。<br><br>
+
 ### 职位空缺与经济 通胀
 空缺率通常被认为是一个衡量经济活力的指标。<br>
 当空缺率较高时，这意味着企业在寻找合适的人才和填补职位方面遇到了困难，反映了劳动力市场供需失衡，可能会导致工资上涨、通胀压力增加等现象。<br>
