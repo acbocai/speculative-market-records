@@ -1,5 +1,51 @@
 # 一些常识
 <!--哈哈我是注释，不会在浏览器中显示。-->
+
+## [2023-5-4] 非农数据 NFP (US Non-farm Payrolls)
+#### 参考
+https://www.youtube.com/watch?v=_Ojs5pN9wOo
+<br><br>
+
+- 非农数据由美国劳工部下属的劳工统计局（Bureau of Labor Statistics，简称BLS）发布。 <br>
+发布时间为每个月的第一周五早上8:30（美国东部时间） <br><br>
+
+- 非农就业人数<br>
+代表过去一个月美国增加了多少就业人数 <br><br>
+
+- 失业率<br>
+失业率上升代表经济恶化, 失业率下降代表经济好转 <br><br>
+
+- 劳动增长率/劳动参与率<br>
+代表有多少人在找工作/愿意找工作. <br><br>
+
+- 平均每周工时<br>
+当经济前景乐观,企业订单多业务多,为了完成订单,则工作时长增加,如果还不够就需要招聘更多人. <br>
+所以工时的增加意味着未来几个月就业人数的增加. <br><br>
+
+- 平均小时薪资增幅<br>
+<br><br>
+
+## [2023-5-4] 失业率 USUR (Unemployment Rate)
+失业率上升代表经济恶化, 失业率下降代表经济好转<br>
+
+### 代码
+tradingview:<br>
+https://www.tradingview.com/symbols/ECONOMICS-USUR/ <br>
+
+M平方: <br> 
+https://sc.macromicro.me/collections/4/us-employ-relative/6/employment-condition <br>
+<br><br>
+
+## [2023-5-4] 职位空缺 (job openings)
+### 职位空缺与经济 通胀
+空缺率通常被认为是一个衡量经济活力的指标。<br>
+当空缺率较高时，这意味着企业在寻找合适的人才和填补职位方面遇到了困难，反映了劳动力市场供需失衡，可能会导致工资上涨、通胀压力增加等现象。<br>
+当空缺率过高时，雇主也可能被迫提高薪资、福利和培训成本，以吸引更多人才，从而增加企业成本，抑制经济增长。<br><br>
+
+### 代码
+https://www.tradingview.com/symbols/FRED-JTSJOL/ <br><br>
+<br><br>
+
 ## [2023-5-4] 就业成本指数 ECI (employment cost index)
 ### 代码
 USEMCI (环比)<br>
@@ -30,7 +76,7 @@ ECI 受到美联储和商界领袖的尊重；公司经理使用 ECI 来比较�
 每月“就业情况报告”中显示的时薪为每次发布提供了一些进展，从工资中扣除了一些意外价值。<br>
 当考虑定期奖金、佣金支付等时，ECI 可能会波动（尤其是在年底）；<br>
 通常需要经济学家的解释才能完全消化该报告。<br><br>
-
+<br>
 
 ## [2022-5-25] 盈亏平衡通胀率 BEIR (Break-even Inflation Rates)
 计算方式：<br>
