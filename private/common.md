@@ -37,6 +37,9 @@ https://www.tradingview.com/symbols/TVC-VIX/ <br>
 - MOVE <br>
 https://www.tradingview.com/symbols/TVC-MOVE/ <br>
 <br><br>
+### 参考
+https://www.youtube.com/watch?v=hLRaLKmvQFc <br><br>
+
 
 ## [2023-5-4] 全球流动性观测指标
 全球流动性 - SPX指数 <br>
