@@ -52,7 +52,9 @@ https://www.youtube.com/watch?v=_Ojs5pN9wOo
 <br><br>
 
 ## [2023-5-4] 失业率 USUR (Unemployment Rate)
-失业率上升代表经济恶化, 失业率下降代表经济好转<br>
+失业率是衰退的最后一块拼图,  <br>
+失业率上升代表经济恶化,  <br>
+失业率下降代表经济好转. <br>
 
 ### 代码
 tradingview:<br>
