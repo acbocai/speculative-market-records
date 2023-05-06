@@ -13,20 +13,21 @@
 - 经济衰退是打压通膨的杀手锏.每一次衰退后,CPI都会大幅度下降. <br> <br>
 - 衰退出现之前,已经开始降息. <br> <br>
 - 升息的逻辑是因为通膨, 降息的逻辑不是通膨缓和,而是因为银行暴雷和金融风暴. <br> <br>
-- 
-升息 <br>
-↓ <br>
-利率倒挂,银行成本>银行收益,银行亏损 <br>
-↓ <br>
-银行危机/金融危机/升息过头 <br>
-↓ <br>
-降息 <br>
-↓ <br>
-消除利率倒挂 <br>
-↓ <br>
-无法阻止衰退来临 <br>
-↓ <br>
-实体经济去通膨/资产部门去泡沫 <br>
+- 为什么每一次都升息过头? 因为美联储决策依据用的是滞后指标. <br> <br>
+- 升息过程
+&nbsp;&nbsp;&nbsp;&nbsp; 升息 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 利率倒挂,银行成本>银行收益,银行亏损 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 银行危机/金融危机/升息过头 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 降息 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 消除利率倒挂 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 无法阻止衰退来临 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 实体经济去通膨/资产部门去泡沫 <br>
 
 ## [2022-3-24] 自己目前这个水平下，比较认同的一些交易理念
 - 对市场心存敬畏<br>
