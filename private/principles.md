@@ -14,19 +14,19 @@
 - 衰退出现之前,已经开始降息. <br> <br>
 - 升息的逻辑是因为通膨, 降息的逻辑不是通膨缓和,而是因为银行暴雷和金融风暴. <br> <br>
 - 为什么每一次都升息过头? 因为美联储决策依据用的是滞后指标. <br> <br>
-- 升息过程
+- 升息过程 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 升息 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 利率倒挂,银行成本>银行收益,银行亏损 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 银行危机/金融危机/升息过头 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 降息 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 消除利率倒挂 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 无法阻止衰退来临 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 实体经济去通膨/资产部门去泡沫 <br>
 
 ## [2022-3-24] 自己目前这个水平下，比较认同的一些交易理念
