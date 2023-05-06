@@ -17,9 +17,9 @@
 - 升息过程 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 升息 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
-&nbsp;&nbsp;&nbsp;&nbsp; 利率倒挂,银行成本>银行收益,银行亏损 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 利率倒挂;&nbsp;&nbsp;银行成本>银行收益(亏损状态) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
-&nbsp;&nbsp;&nbsp;&nbsp; 银行危机/金融危机/升息过头 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 银行危机/金融危机;&nbsp;升息过头 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 降息 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ <br>
