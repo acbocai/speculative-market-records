@@ -1,4 +1,60 @@
 # (某码农的不科学)投机市场观察录 
+## [2023-05-07] [市场观察] 一些指标
+#### 我们可能处于周期的哪个阶段?
+大伙自己看吧, 刻舟求剑的东西, 都在图里了.<br>
+![](/data/readme/2023-05-07-1.png)<br><br>
+
+#### 新屋营建许可数(衰退领先指标)
+我们可能到了衰退边缘<br>
+![](/data/readme/2023-05-07-3.png)<br><br>
+
+#### 失业率(滞后指标)
+失业率非常低, 甚至是历史最佳, 从这个指标来看, 美联储可以不用顾忌失业问题, 暂时还可以维持高利率.<br>
+![](/data/readme/2023-05-07-5.png)<br><br>
+
+#### 工作时长(领先指标)
+说明企业订单在减少, 虽然失业率还没上来, 但劳动力市场在降温了.<br>
+![](/data/readme/2023-05-07-7.png)<br><br>
+
+#### 薪资成长指标(领先指标)
+也是在降, 薪资增长没有那么快了, 通胀得到一定缓解, 劳动力市场在降温.<br>
+![](/data/readme/2023-05-07-7.png)<br><br>
+
+#### 基准利率 VS 物价指数
+虽然市场上一直在含利率很高了,要停止加息了, 但是看图发现, 利率还没追上CPI.<br>
+![](/data/readme/2023-05-07-6.jpg)<br><br>
+
+#### 纳指 VS 饼
+走势基本同步, 大饼没有走出独立行情.<br>
+![](/data/readme/2023-05-07-2.png)<br><br>
+
+#### 联储资产负债表 VS 饼
+这次阔表,和大饼的反弹时间上也比较同步,<br>
+![](/data/readme/2023-05-07-4.png)<br><br>
+
+#### 参考
+DFF 联邦基准利率:<br>
+https://www.tradingview.com/symbols/FRED-DFF/ <br><br>
+
+10Y-2Y利差:<br>
+https://www.tradingview.com/symbols/FRED-T10Y2Y/  <br><br>
+
+USBP 新屋营建许可数: <br>
+https://www.tradingview.com/symbols/ECONOMICS-USBP/  <br><br>
+
+联储资产负债表:<br>
+https://cn.tradingview.com/symbols/ECONOMICS-USCBBS/  <br><br>
+
+薪资成长:<br>
+https://tradingeconomics.com/united-states/average-weekly-hours <br><br>
+
+失业率:<br>
+https://fred.stlouisfed.org/series/UNRATE <br><br>
+
+平均每周工作时间:<br>
+https://tradingeconomics.com/united-states/average-weekly-hours <br><br>
+<br>
+
 ## [2023-05-04] [市场观察] Higher for longer
 #### 通胀问题有多重要:
 "通胀是一个非常严肃的问题，<br>
